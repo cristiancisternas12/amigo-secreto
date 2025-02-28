@@ -10,7 +10,7 @@ Una vez que el usuario haya añadido todos los participantes, el proyecto sortea
 https://github.com/usuario/proyecto.git
 - En tu navegador, Ejecutar el archivo Index.html
 
-##Uso
+## Uso
 Para utilizar el juego "Amigo Secreto", sigue estos pasos:
 
 -Agregar Participantes:
