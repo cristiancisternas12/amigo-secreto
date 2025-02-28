@@ -7,7 +7,7 @@ Una vez que el usuario haya añadido todos los participantes, el proyecto sortea
 
 ## Instalación
 - Clonar el repositorio en tu computador
-https://github.com/usuario/proyecto.git
+https://github.com/cristiancisternas12/amigo-secreto.git
 - En tu navegador, Ejecutar el archivo Index.html
 
 ## Uso
